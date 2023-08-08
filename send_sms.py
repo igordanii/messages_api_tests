@@ -7,6 +7,6 @@ response = client.messages.send_message({
     "message_type":"text",
     "from":"Vonage",
     "to":"5588988736070",
-    "text":"Me dá dinheiro",
+    "text":"Me dá dinheiroph",
 })
 print(response)
